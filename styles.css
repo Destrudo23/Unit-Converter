@@ -11,7 +11,7 @@ div {
   text-align: center;
 }
 
-.container {
+/*.container {
   width: 500px;
   min-width: 500px;
   margin-right: auto;
@@ -22,7 +22,7 @@ div {
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   border-radius: 5px;
-}
+}*/
 
 .top-container {
   background-color: #6943FF;
@@ -33,11 +33,11 @@ div {
   border-top-right-radius: 5px;
 }
 
-.rendercontainer {
+/*.rendercontainer {
   border: 5px solid white;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
-}
+}*/
 
 #input-el {
   width: 100px;
@@ -71,12 +71,13 @@ textarea:focus, input:focus{
   padding: 5px;
 }
 
-.con-btn {
+/*.con-btn {
   width: 60px;
 }
 
 .render-div {
   background-color: white;
   width: 50px;
-}
+  max-height: 75px;
+}*/
 
