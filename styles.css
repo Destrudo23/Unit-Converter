@@ -72,5 +72,7 @@ textarea:focus, input:focus{
   margin-left: auto;
   height: 95px;
   max-height: 75px;
+  font-style: italic;
+  font-size: 15px;
 }
 
