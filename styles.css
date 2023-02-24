@@ -70,9 +70,10 @@ textarea:focus, input:focus{
   width: 600px;
   margin-right: auto;
   margin-left: auto;
-  height: 95px;
+  height: 50px;
   max-height: 75px;
   font-style: italic;
   font-size: 15px;
+  padding-top: 25px;
 }
 
