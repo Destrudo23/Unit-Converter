@@ -65,6 +65,11 @@ textarea:focus, input:focus{
   padding: 5px;
 }
 
+#convert-btn:hover, #convert-btn:active {
+  background-color: #f3e885;
+  color: #2b283a;
+}
+
 .render-div {
   background-color: rgb(218, 218, 218);
   width: 600px;
